@@ -1,0 +1,8 @@
+Namenode
+-Centerpiece
+_ the master node
+- Stores metadata
+-tracks files across cluster
+-knows list of blocks and locations
+- single point of failure
+
